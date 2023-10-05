@@ -7,7 +7,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 
 ## Subjects :       
 - Second Year
-  - [[TP1]]
+  - [TP1](https://github.com/aluque1/TP1)
   - [[FAL]]
 - Third Year
   - [[SO]]
