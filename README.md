@@ -14,7 +14,7 @@ Most of the code is here to be shared and accessed by students that are currentl
   - [PSyD](https://github.com/aluque1/PSyD)
   - [AR](https://github.com/aluque1/AR)
   - [ASO](https://github.com/aluque1/ASO)
-  - [SW](https://github.com/aluque1/SW)
+  - [SW](https://github.com/aluque1/SW) (final proyect cab be found int [Escoli](https://github.com/IgnaciosConQueso/Escoli))
 - Fourth Year
   - 🚧 WIP 🚧
  
