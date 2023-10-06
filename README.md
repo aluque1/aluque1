@@ -27,7 +27,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 - `C++` Mainly used to solve algorithm problems in FAL
 - `VHDL` Learnt how to program small systems with `Vivado`
 - `Java` Used to learn OOP in the subject [TP1](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805481) & [TP2](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805482). Also made a game in [IS2](https://github.com/aluque1/IS2) using `Java` and [libGDX](https://libgdx.com/) for the GUI.
-- `lex` & `yacc` basics for writing text parsers 
+- `lex` & `yacc` & `GAP` basics for writing text parsers 
 
 <!--
 **aluque1/aluque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
