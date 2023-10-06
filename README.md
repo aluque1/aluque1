@@ -5,7 +5,7 @@ Right now I am a studying [Computer Engineering at Universidad Complutense of Ma
 
 Most of the code is here to be shared and accessed by students that are currently taking said subjects and so they can have a look at the code. I try to have it commented to explain things that I personally didn't understand right off the bat.
 
-## Subjects :       
+#### Subjects :       
 - Second Year
   - [TP1](https://github.com/aluque1/TP1)
   - FAL (currently taking this subject) <!--(https://github.com/aluque1/FAL) -->
@@ -15,17 +15,19 @@ Most of the code is here to be shared and accessed by students that are currentl
   - [PSyD](https://github.com/aluque1/PSyD)
   - [AR](https://github.com/aluque1/AR)
   - [ASO](https://github.com/aluque1/ASO)
-  - [SW](https://github.com/aluque1/SW) (final proyect cab be found int [Escoli](https://github.com/IgnaciosConQueso/Escoli))
+  - [SW](https://github.com/aluque1/SW) (final proyect can be found in [Escoli](https://github.com/IgnaciosConQueso/Escoli))
+  - [LPPL](https://github.com/aluque1/LPPL)
 - Fourth Year
   - 🚧 WIP 🚧
  
 --------
 
-## Programming languages I have experience with
+#### Programming languages I have experience with
 - `C` Used it for sockets, file management and a small [Shell](https://github.com/aluque1/ASO/tree/main/ejercicioShell), programming of small embedded systems on a S3C44BOX microcontroller and Embest S3CEV40 development board. Currently learning how to program distributed systems
 - `C++` Mainly used to solve algorithm problems in FAL
 - `VHDL` Learnt how to program small systems with `Vivado`
 - `Java` Used to learn OOP in the subject [TP1](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805481) & [TP2](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805482). Also made a game in [IS2](https://github.com/aluque1/IS2) using `Java` and [libGDX](https://libgdx.com/) for the GUI.
+- `LEX`& `YACC` basics for writing text parsers 
 
 <!--
 **aluque1/aluque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
