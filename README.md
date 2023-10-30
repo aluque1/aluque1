@@ -5,6 +5,12 @@ Right now I am a studying [Computer Engineering at Universidad Complutense of Ma
 
 Most of the code is here to be shared and accessed by students that are currently taking said subjects and so they can have a look at the code. I try to have it commented to explain things that I personally didn't understand right off the bat.
 
+--------
+
+<!-- ![aluque1's Stats](https://github-readme-stats.vercel.app/api?username=aluque1&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
+
+--------
+
 #### Subjects :       
 - Second Year
   - [TP1](https://github.com/aluque1/TP1)
@@ -27,7 +33,8 @@ Most of the code is here to be shared and accessed by students that are currentl
 - `C++` Mainly used to solve algorithm problems in FAL
 - `VHDL` Learnt how to program small systems with `Vivado`
 - `Java` Used to learn OOP in the subject [TP1](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805481) & [TP2](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805482). Also made a game in [IS2](https://github.com/aluque1/IS2) using `Java` and [libGDX](https://libgdx.com/) for the GUI.
-- `lex` & `yacc` & `GAP` basics for writing text parsers 
+- `lex`, `yacc` & `GAP` basics for writing text parsers
+- `html`, `php`, `css`, & `JavaScript` for basic web desing, using mostly `html`, `php` and `css` for the final proyect [Escoli](https://github.com/IgnaciosConQueso/Escoli) for the subject [SW](https://github.com/aluque1/SW)
 
 <!--
 **aluque1/aluque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
