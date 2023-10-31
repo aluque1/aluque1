@@ -5,12 +5,25 @@ Right now I am a studying [Computer Engineering at Universidad Complutense of Ma
 
 Most of the code is here to be shared and accessed by students that are currently taking said subjects and so they can have a look at the code. I try to have it commented to explain things that I personally didn't understand right off the bat.
 
+<!--
 --------
+### Currently learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </a>
+</p>
 
-<!-- ![aluque1's Stats](https://github-readme-stats.vercel.app/api?username=aluque1&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
+### Familiar with
+<p align="Center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,md,php,html," />
+  </a>
+</p>
+ ![aluque1's Stats](https://github-readme-stats.vercel.app/api?username=aluque1&theme=monokai&show_icons=true&hide_border=true&count_private=true) 
 
 --------
-
+-->
 #### Subjects :       
 - Second Year
   - [TP1](https://github.com/aluque1/TP1)
