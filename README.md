@@ -1,4 +1,4 @@
-## Hello there 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D991F7&random=false&width=435&lines=Hello+there)](https://git.io/typing-svg)
 
 ### Short introduction
 Right now I am a studying [Computer Engineering at Universidad Complutense of Madrid](https://www.ucm.es/estudios/grado-ingenieriadecomputadores). Most of the repositories in this github (for now) are part of small proyects that we have to do for our subjects.
@@ -6,10 +6,15 @@ Right now I am a studying [Computer Engineering at Universidad Complutense of Ma
 Most of the code is here to be shared and accessed by students that are currently taking said subjects and so they can have a look at the code. I try to have it commented to explain things that I personally didn't understand right off the bat.
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluque1&layout=compact&theme=material-palenight&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aluque1&show_icons=true&hide_border=true&theme=material-palenight">
 </p>
 
 <!--
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluque1&layout=compact&theme=material-palenight&hide_border=true">
+</p>
+
+
 --------
 ### Currently learning
 <p align="center">
