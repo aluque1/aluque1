@@ -5,6 +5,10 @@ Right now I am a studying [Computer Engineering at Universidad Complutense of Ma
 
 Most of the code is here to be shared and accessed by students that are currently taking said subjects and so they can have a look at the code. I try to have it commented to explain things that I personally didn't understand right off the bat.
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluque1&layout=compact&theme=material-palenight&hide_border=true">
+</p>
+
 <!--
 --------
 ### Currently learning
