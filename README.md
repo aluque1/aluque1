@@ -6,8 +6,14 @@ Right now I am a studying [Computer Engineering at Universidad Complutense of Ma
 Most of the code is here to be shared and accessed by students that are currently taking said subjects and so they can have a look at the code. I try to have it commented to explain things that I personally didn't understand right off the bat.
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aluque1&show_icons=true&hide_border=true&theme=material-palenight">
+  <img src="https://github-readme-stats.vercel.app/api?username=aluque1&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=material-palenight&show_icons=true" alt="Commit statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluque1&hide_border=true&theme=material-palenight&layout=compact" alt="Language statistics" />
 </p>
+
+#### Currently learning:
+- `Rust`
+- Tinkering around with the `Win32 API`
+
 
 <!--
 <p align="center">
