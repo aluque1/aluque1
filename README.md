@@ -42,7 +42,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 #### Subjects :       
 - Second Year
   - [TP1](https://github.com/aluque1/TP1)
-  - FAL (currently taking this subject) <!--(https://github.com/aluque1/FAL) -->
+  - [FAL](https://github.com/aluque1/FAL).
   - [IS2](https://github.com/aluque1/IS2)
 - Third Year
   - [SO](https://github.com/aluque1/SO)
@@ -53,6 +53,8 @@ Most of the code is here to be shared and accessed by students that are currentl
   - [LPPL](https://github.com/aluque1/LPPL)
 - Fourth Year
   - 🚧 WIP 🚧
+  - [PSD](https://github.com/aluque1/PSD)
+  - [SE] (currently working on the final project)
  
 --------
 
