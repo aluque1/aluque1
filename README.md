@@ -12,7 +12,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 
 #### Currently learning:
 - `Rust`
-- Tinkering around with the `Win32 API`
+- [LFS](https://www.linuxfromscratch.org/)(Linux From Scratch) 
 
 
 <!--
@@ -42,7 +42,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 #### Subjects :       
 - Second Year
   - [TP1](https://github.com/aluque1/TP1)
-  - [FAL](https://github.com/aluque1/FAL).
+  - [FAL](https://github.com/aluque1/FAL)
   - [IS2](https://github.com/aluque1/IS2)
 - Third Year
   - [SO](https://github.com/aluque1/SO)
@@ -54,7 +54,10 @@ Most of the code is here to be shared and accessed by students that are currentl
 - Fourth Year
   - 🚧 WIP 🚧
   - [PSD](https://github.com/aluque1/PSD)
-  - [SE] (currently working on the final project)
+  - [SE](https://github.com/aluque1/SE)
+  - [DAS] (Currently working on)
+  - [PEV] (Currently working on)
+  - [SI] (Currently working on)
  
 --------
 
