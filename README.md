@@ -11,13 +11,28 @@ Most of the code is here to be shared and accessed by students that are currentl
 </p>
 
 #### Currently learning:
+
 - `Rust`
 - [LFS](https://www.linuxfromscratch.org/)(Linux From Scratch) 
 
-#### Subjects :       
+#### Programming languages I have experience with
+
+- `C` Used it for sockets, file management and a small [Shell](https://github.com/aluque1/ASO/tree/main/ejercicioShell), programming of small embedded systems on a S3C44BOX microcontroller and Embest S3CEV40 development board. Also used to program distributed systems in [PSD](https://github.com/aluque1/PSD)
+- `C++` Mainly used to solve algorithm problems in FAL(🚧 WIP 🚧), [ED](https://github.com/aluque1/ED), and DA(🚧 WIP 🚧)
+- `VHDL` Learnt how to program small systems with `Vivado`, followed by embedded systems in [SE](https://github.com/aluque1/SE) and [DAS](https://github.com/aluque1/DAS/tree/main)
+- `Java` Used to learn OOP in the subject [TP1](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805481) & [TP2](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805482). Also made a game in [IS2](https://github.com/aluque1/IS2) using `Java` and [libGDX](https://libgdx.com/) for the GUI.
+- `lex`, `yacc` & `GAP` basics for writing text parsers
+- `html`, `php`, `css`, & `JavaScript` for basic web desing, using mostly `html`, `php` and `css` for the final proyect [Escoli](https://github.com/IgnaciosConQueso/Escoli) for the subject [SW](https://github.com/aluque1/SW)
+- `python` used for training Agents and cleaning datasets for the subject [SI](https://github.com/aluque1/SI)
+- `SQL` & `PL/SQL` for managing databases in [BD](https://github.com/aluque1/BD)
+
+--------
+
+#### Subjects:
+
 - Second Year
   - [TP1](https://github.com/aluque1/TP1)
-  - [FAL](🚧 WIP 🚧)
+  - [FAL](https://github.com/aluque1/FAL)(🚧 WIP 🚧)
   - [BD](https://github.com/aluque1/BD)(🚧 WIP 🚧)
   - [IS2](https://github.com/aluque1/IS2)
   - [ED](https://github.com/aluque1/ED)
@@ -34,18 +49,6 @@ Most of the code is here to be shared and accessed by students that are currentl
   - [SE](https://github.com/aluque1/SE)
   - [DAS](https://github.com/aluque1/DAS/tree/main)
   - [SI](https://github.com/aluque1/SI)
- 
---------
-
-#### Programming languages I have experience with
-- `C` Used it for sockets, file management and a small [Shell](https://github.com/aluque1/ASO/tree/main/ejercicioShell), programming of small embedded systems on a S3C44BOX microcontroller and Embest S3CEV40 development board. Also used to program distributed systems in [PSD](https://github.com/aluque1/PSD)
-- `C++` Mainly used to solve algorithm problems in FAL(🚧 WIP 🚧), [ED](https://github.com/aluque1/ED), and DA(🚧 WIP 🚧)
-- `VHDL` Learnt how to program small systems with `Vivado`, followed by embedded systems in [SE](https://github.com/aluque1/SE) and [DAS](https://github.com/aluque1/DAS/tree/main)
-- `Java` Used to learn OOP in the subject [TP1](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805481) & [TP2](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805482). Also made a game in [IS2](https://github.com/aluque1/IS2) using `Java` and [libGDX](https://libgdx.com/) for the GUI.
-- `lex`, `yacc` & `GAP` basics for writing text parsers
-- `html`, `php`, `css`, & `JavaScript` for basic web desing, using mostly `html`, `php` and `css` for the final proyect [Escoli](https://github.com/IgnaciosConQueso/Escoli) for the subject [SW](https://github.com/aluque1/SW)
-- `python` used for training Agents and cleaning datasets for the subject [SI](https://github.com/aluque1/SI)
-- `SQL` & `PL/SQL` for managing databases in [BD](https://github.com/aluque1/BD)
 
 <!--
 **aluque1/aluque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
