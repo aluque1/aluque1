@@ -13,7 +13,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 #### Currently learning:
 
 - `Rust`
-- [LFS](https://www.linuxfromscratch.org/)(Linux From Scratch) 
+- `Strudel` 
 
 #### Programming languages I have experience with
 
