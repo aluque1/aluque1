@@ -12,7 +12,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 
 #### Currently learning:
 
-- `Rust`
+- `Risc-v`
 - `Strudel` 
 
 #### Programming languages I have experience with
