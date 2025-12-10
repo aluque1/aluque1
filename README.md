@@ -13,6 +13,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 #### Currently learning:
 
 - `Risc-v`
+- `x86 Assembly`
 - `Strudel` 
 
 #### Programming languages I have experience with
@@ -23,7 +24,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 - `Java` Used to learn OOP in the subject [TP1](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805481) & [TP2](https://www.ucm.es/estudios/grado-ingenieriadecomputadores-plan-805482). Also made a game in [IS2](https://github.com/aluque1/IS2) using `Java` and [libGDX](https://libgdx.com/) for the GUI.
 - `lex`, `yacc` & `GAP` basics for writing text parsers
 - `html`, `php`, `css`, & `JavaScript` for basic web desing, using mostly `html`, `php` and `css` for the final proyect [Escoli](https://github.com/IgnaciosConQueso/Escoli) for the subject [SW](https://github.com/aluque1/SW)
-- `python` used for training Agents and cleaning datasets for the subject [SI](https://github.com/aluque1/SI)
+- `python` used for training Agents and cleaning datasets for the subject [SI](https://github.com/aluque1/SI), implementing quantum algorithms for the subject [APCC](https://github.com/aluque1/APCC) and implementing tools for vulnerability scanning in IoT Operating Systems for the [End of Degree Thesis]((https://github.com/pagarc24/TFG_IdIoT))
 - `SQL` & `PL/SQL` for managing databases in [BD](https://github.com/aluque1/BD)
 
 --------
