@@ -26,7 +26,7 @@ Most of the code is here to be shared and accessed by students that are currentl
 - `html`, `php`, `css`, & `JavaScript` for basic web desing, using mostly `html`, `php` and `css` for the final proyect [Escoli](https://github.com/IgnaciosConQueso/Escoli) for the subject [SW](https://github.com/aluque1/SW)
 - `python` used for training Agents and cleaning datasets for the subject [SI](https://github.com/aluque1/SI), implementing quantum algorithms for the subject [APCC](https://github.com/aluque1/APCC) and implementing tools for vulnerability scanning in IoT Operating Systems for the [End of Degree Thesis]((https://github.com/pagarc24/TFG_IdIoT))
 - `SQL` & `PL/SQL` for managing databases in [BD](https://github.com/aluque1/BD)
-
+- `risc-v` for writing programs in [AC](https://github.com/aluque1/AC)
 --------
 
 #### Subjects:
@@ -52,6 +52,7 @@ Most of the code is here to be shared and accessed by students that are currentl
   - [SI](https://github.com/aluque1/SI)
   - [APCC](https://github.com/aluque1/APCC)
   - [PR](https://github.com/aluque1/PR)
+  - [AC](https://github.com/aluque1/AC)
  
 - [Final project](https://github.com/pagarc24/TFG_IdIoT)
   - At the end of the degree, it is obligatory to do a final project. For this, I did, together with [Pablo](https://github.com/pagarc24), a system analysis tool that focuses on finding known vulnerabilities in GNU/Linux system, focused on those operating systems that work on IoT devices  
